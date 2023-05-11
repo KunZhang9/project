@@ -1,0 +1,15 @@
+utils/Pair.class
+utils/UniqueProductIdGenerator.class
+processes/ProductMonitor.class
+processes/Transaction.class
+processes/SupplierLifecycle.class
+testing/Testing.class
+utils/Item.class
+testing/Testing$Test.class
+processes/RainforestShop.class
+utils/MyUUID.class
+utils/UtilityMethods.class
+utils/AtomicBigInteger.class
+utils/BasketResult.class
+testing/Testing$Message.class
+processes/ClientLifecycle.class
